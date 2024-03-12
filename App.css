@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  position: absolute;
+  animation: App-logo-move-and-spin 10s linear infinite; /* Updated animation */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-move-and-spin 10s linear infinite;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-move-and-spin {
+  0% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  25% {
+    transform: translate(80vw, 0) rotate(360deg);
+  }
+  50% {
+    transform: translate(80vw, 80vh) rotate(720deg);
+  }
+  75% {
+    transform: translate(0, 80vh) rotate(1080deg);
+  }
+  100% {
+    transform: translate(0, 0) rotate(1440deg); /* Back to the start position with an additional spin */
+  }
+}
