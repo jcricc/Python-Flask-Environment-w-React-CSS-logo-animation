@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="1889" alt="Octinkdev1" src="https://github.com/jcricc/Python-Flask-Environment-w-React-CSS-logo-animation/assets/153335900/32490684-a871-42e7-8196-c03ecb5a4e5c">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -14,30 +17,30 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+<img width="1901" alt="Octinkdev2" src="https://github.com/jcricc/Python-Flask-Environment-w-React-CSS-logo-animation/assets/153335900/b28e7040-88dc-48ee-994c-e5f4715e382e">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Python Flask, React, CSS3
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Python Flask environment as a solid backend foundation and used React for the frontend to create a dynamic and responsive user interface. A standout feature Jack implemented is a CSS3 animation that makes the React logo energetically bounce around the screen, which adds an engaging visual effect and demonstrates proficiency with CSS keyframes and transforms.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="1907" alt="octinkdev2 5" src="https://github.com/jcricc/Python-Flask-Environment-w-React-CSS-logo-animation/assets/153335900/8403fb8f-43df-4aa4-a4c1-a0c9f73dcef6">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Environment Setup and Customized CSS Animation of React Logo 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+For the project showcase, Jack Ritchie developed a web interface that vividly demonstrates both his frontend and backend abilities.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="1830" alt="Reactcssanimationsample" src="https://github.com/jcricc/Python-Flask-Environment-w-React-CSS-logo-animation/assets/153335900/9c34be7c-12f0-4914-93cd-93b648796206">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Use as a Template to start your app!
+
+
+
+https://github.com/jcricc/Python-Flask-Environment-w-React-CSS-logo-animation/assets/153335900/87f99e0d-2a4d-47fe-9d29-f022d46c0901
+
+
 
 ## Learn More
 
